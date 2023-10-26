@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="qr_code_scan_string">Qr code scan</string>
+    <string name="product_price_string">Product Price</string>
+    <string name="article_string">Article</string>
+    <string name="product_name_string">Product Name</string>
+    <string name="expire_date_string">Expire Date </string>
+
+
+    <string name="uwinjije_string">UWINJIJE</string>
+    <string name="_71388728_string">71388728</string>
+    <string name="_2023_07_76_string">2023-07-76</string>
+    <string name="date__string">date:</string>
+    <string name="cher_client_nous_vous_remercions_pour_vos_achats_chez_nous__string">   Cher client nous vous remercions pour vos achats     chez nous.</string>
+    <string name="cher_client_nous_vous_remercions_pour_vos_achats_chez_nous__ek1_string">   Cher client nous vous remercions pour vos achats     chez nous.</string>
+    <string name="inputter__string">inputter: </string>
+    <string name="facture_string">Facture </string>
+    <string name="facture_logo_string">FACTURE LOGO</string>
+    <string name="contact___string">contact :</string>
+
+
+</resources>
